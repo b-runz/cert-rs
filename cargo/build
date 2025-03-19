@@ -1,0 +1,5 @@
+[target.armv5te-unknown-linux-musleabi]
+linker = "arm-linux-musleabi-gcc"
+
+[build]
+target = "armv5te-unknown-linux-musleabi"
