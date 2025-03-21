@@ -1717,6 +1717,7 @@ dependencies = [
 [[package]]
 name = "warp-reverse-proxy"
 version = "1.0.0"
+source = "git+https://github.com/b-runz/warp-reverse-proxy.git#dfbf789ee5cba79b1be90480738d47fedca9adc6"
 dependencies = [
  "hyper 1.6.0",
  "once_cell",
